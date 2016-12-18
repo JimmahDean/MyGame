@@ -1,0 +1,343 @@
+FFF
+FFF
+FFF     NO
+
+WFF
+FFF
+FFF     YES
+
+WWF
+FFF
+FFF     NO
+
+WWW
+FFF
+FFF     NO
+
+FWW
+FFF
+FFF     NO
+
+FFW
+FFF
+FFF     YES
+
+FFF
+WFF
+FFF     YES
+
+WFF
+WFF
+FFF     NO
+
+WWF
+WFF
+FFF     NO
+
+WWW
+WFF
+FFF     NO
+
+FFF
+WFW
+FFF     NO
+
+WFF
+WFW
+FFF     NO
+
+WWF
+WFW
+FFF     NO
+
+WWW
+WFW
+FFF     NO
+
+FFF
+FFF
+WFF     YES
+
+WFF
+FFF
+WFF     YES
+
+WWF
+FFF
+WFF     YES
+
+WWW
+FFF
+WFF     YES
+
+FFF
+WFF
+WFF     NO
+
+WFF
+WFF
+WFF     NO
+
+WWF
+WFF
+WFF     NO
+
+WWW
+WFF
+WFF     NO
+
+FFF
+WFW
+WFF     NO
+
+WFF
+WFW
+WFF     NO
+
+WWF
+WFW
+WFF     NO
+
+WWW
+WFW
+WFF     NO
+
+FFF
+FFF
+WWF     NO
+
+WFF
+FFF
+WWF     YES
+
+WWF
+FFF
+WWF     NO
+
+WWW
+FFF
+WWF     NO
+
+FFF
+WFF
+WWF     NO
+
+WFF
+WFF
+WWF     NO
+
+WWF
+WFF
+WWF     NO
+
+WWW
+WFF
+WWF     NO
+
+FFF
+WFW
+WWF     NO
+
+WFF
+WFW
+WWF     NO
+
+WWF
+WFW
+WWF     ?
+
+WWW
+WFW
+WWF     ?
+
+FFF
+FFF
+WWW     NO
+
+WFF
+FFF
+WWW     YES
+
+WWF
+FFF
+WWW     NO
+
+WWW
+FFF
+WWW     NO
+
+FFF
+WFF
+WWW     NO
+
+WFF
+WFF
+WWW     NO
+
+WWF
+WFF
+WWW     NO
+
+WWW
+WFF
+WWW     NO
+
+FFF
+WFW
+WWW     NO
+
+WFF
+WFW
+WWW     NO
+
+WWF
+WFW
+WWW     ?
+
+WWW
+WFW
+WWW     ?
+
+FWF
+FFF
+FFF     NO
+
+FFF
+FFF
+FWF     NO
+
+FWF
+WFF
+FFF     NO
+
+FWF
+WFW
+FFF     NO
+
+FWF
+FFF
+FWF     NO
+
+FWF
+WFW
+FWF     ?
+
+FWF
+WFF
+FWF     NO
+
+FWF
+FFW
+FWF     NO
+
+FFF
+WFF
+FWF     NO
+
+FFF
+FFW
+FWF     NO
+
+FFF
+WFW
+FWF     NO
+
+WFW
+FFF
+FFF     YES
+
+WFW
+WFF
+FFF     YES
+
+WFW
+WFW
+FFF     NO
+
+WFW
+FFW
+FFF     YES
+
+WFW
+FFF
+WFF     YES
+
+WFW
+WFF
+WFF     YES
+
+WFW
+WFW
+WFF     NO
+
+WFW
+FFF
+WWF     YES
+
+WFW
+WFF
+WWF     YES
+
+WFW
+WFW
+WWF     NO
+
+WFW
+FFF
+WWW     YES
+
+WFW
+WFF
+WWW     YES
+
+WFW
+WFW
+WWW     NO
+
+FFF
+FFF
+WFW     YES
+
+WFF
+FFF
+WFW     YES
+
+WWF
+FFF
+WFW     YES
+
+WWW
+FFF
+WFW     YES
+
+FFF
+WFF
+WFW     YES
+
+WFF
+WFF
+WFW     YES
+
+WWF
+WFF
+WFW     YES
+
+WWW
+WFF
+WFW     YES
+
+FFF
+WFW
+WFW     NO
+
+WFF
+WFW
+WFW     NO
+
+WWF
+WFW
+WFW     NO
+
+WWW
+WFW
+WFW     NO                                                 FFFFFFFF    WWWWWWWW

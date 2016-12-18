@@ -1,0 +1,168 @@
+# Game Plans #
+
+## Gameplay ##
+	### Spellcrafting ###
+		- Base system 0%
+		- Default spells 0%
+		- Spell combining 0%
+		- Spell tweaking 0%
+		- Equipment effects 0%
+		- Feel 0%
+		- Fun 0%
+		- Balance 0%
+		
+	### Combat ###
+		- Base system 25%
+		- Weapons 0%
+		- Ranged combat 0%
+		- Magic combat 0%
+		- Equipment effects 0%
+		- Feel 0%
+		- Fun 0%
+		- Balance 0%
+		
+	### Monsters ###
+		- Base system 10%
+		- Monster variety 0%
+		- Bosses 0%
+		- Loot table 0%
+		- Stats 0%
+		- Equipment 0%
+		- AI 15%
+		- Feel 0%
+		- Fun 0%
+		- Balance 0%
+		
+	### Loot ###
+		- Inventory 0%
+		- Equipment 0%
+		- Item crafting 0%
+		- Reagents 0%
+		- Feel 0%
+		- Fun 0%
+		- Balance 0%
+		
+	### World Building ###
+		- Base system 1%
+		- Saving/Loading 15%
+		- Monster spawning 1%
+		- Random Generation 0%
+		- Cities 0%
+		- Branches 0%
+		- In-game map 0%
+		- Goal 0%
+		- Feel 0%
+		- Fun 0%
+		- Balance 0%
+
+	### Character Building ###
+		-
+
+## Graphics ##
+	- Tilesets 0%
+	- Player sprites 0%
+	- Monster sprites 0%
+	- Spell effects 0%
+	- Combat effects 0%
+	- Fluff 0%
+
+## Artwork ##
+	- Screenshots?
+
+## Sound Effects ##
+	- Combat Sounds 0%
+	- Monster Sounds 0%
+	- Environment Sounds 0%
+
+## Music ##
+	- Background music 0%
+	- Boss music 0%
+
+## Settings ##
+	- Difficulties?
+	- Volume sliders 0%
+	- Fullscreen/Windowed/Borderless 0%
+
+## Other ##
+
+Step 1: Decide to write a game. - Completed
+Step 2: Hello world! - Completed
+Step 3: It's a boy! - Completed
+	- Start with screen output - Completed
+	- Make the routine to read key presses - Completed
+	- Make a '@ walking around the empty screen' demo - Completed
+	- Make the message handling routines - Completed
+Step 4: The map - Completed
+	- Decide on your map structure - Completed
+	- Make your '@' appear on the map - Completed
+	- Now turn '@' into a creature - Completed
+Step 5: Saving/Loading - INCOMPLETED
+	- Read the map from a file instead of hard coding it. - Completed
+	- Add the save command and procedures to save your game. - INCOMPLETED
+	- Add the load command and procedures to load your game. - INCOMPLETED
+Step 6: It's alive! Alive! - Completed
+	- Implement other creatures. One at first. - Completed
+	- Give him some simple AI. - Completed
+Step 7: Interaction - INCOMPLETED
+	- Add stats for your creatures. - INCOMPLETED
+	- Make the creatures notice each other. - Completed
+	- Gradually improve their AIs. - Indefinite
+	- Implement and test the combat system - Without equipment. - Completed
+Step 8: Data files - INCOMPLETED
+	- Move the creature, map features, etc. definitions to data files - INCOMPLETED
+Step 9: Items - INCOMPLETED
+	- Add Items - INCOMPLETED
+		- For start, just objects you can pick up - no properties - INCOMPLETED
+		- Gradually give them properties - INCOMPLETED
+		- Implement inventory - INCOMPLETED
+			- Picking up - INCOMPLETED
+			- Dropping - INCOMPLETED
+			- Equipping - INCOMPLETED
+			- Using - INCOMPLETED
+		- Stacking - INCOMPLETED
+		- Containers - INCOMPLETED - Probably will not implement.
+	- Balance - Idefinite
+Step 10: Magic - INCOMPLETED
+	- Add item effects - INCOMPLETED
+	- Special monster attacks - INCOMPLETED
+	- Special monster spells - INCOMPLETED
+	- Add Items - INCOMPLETED
+	- Add Monsters - INCOMPLETED
+Step 11: Simple game - INCOMPLETED
+	- Make a simple, hard-coded game. - INCOMPLETED
+	- Play it and give to friends - INCOMPLETED
+	- Test mechanics - INCOMPLETED
+	- Change everything - INCOMPLETED
+	- Test more - INCOMPLETED
+	- Step 11 completed when game is fun and an actual game - INCOMPLETED
+Step 12: Levels - INCOMPLETED
+	- Write level generators - INCOMPLETED
+	- Implement moving between the levels - INCOMPLETED
+	- Make a town - INCOMPLETED
+	- Spread monters and items on different depths - INCOMPLETED
+	- Add even more things - INCOMPLETED
+	- Test - INCOMPLETED
+Step 13: Experience - INCOMPLETED
+	- Develop experience system - INCOMPLETED
+	- Develop skill system - INCOMPLETED
+	- Tune monster and item stats - INCOMPLETED
+	- Make UI screens for character information - INCOMPLETED
+	- Make UI screens for item information - INCOMPLETED
+Step 14: Citizens - INCOMPLETED
+	- Add NPCs - INCOMPLETED
+	- Add shopkeepers - INCOMPLETED
+	- Add simple quests - INCOMPLETED
+	- Add features - INCOMPLETED
+	- Tune stats - INCOMPLETED
+Step 15: Free at last - INCOMPLETED
+	- Add cool things - INCOMPLETED
+	- Test everything - INCOMPLETED
+	- Test even more - INCOMPLETED
+	- TEST EVERYTHING - INCOMPLETED
+	- EVEN MORE GOD DAMN TESTING - INCOMPLETED
+	- DID YOU GUESS THIS STEP WOULD BE TESTING? - INCOMPLETED
+Step 16: RELEASE A BOMB-ASS GAME - INCOMPLETED
+	- There is only one step in step 16. - INCOMPLETED
+	- That step is as follows. - INCOMPLETED
+	- Release a game. - INCOMPLETED
+	- If it's not good, the preceding steps were not followed properly. - INCOMPLETED

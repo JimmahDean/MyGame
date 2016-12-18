@@ -1,0 +1,27 @@
+[GOBLIN]
+power=1
+Name=Goblin
+maxHP=8
+attackType=melee
+attackPower=3
+
+[KOBOLD]
+power=1
+Name=Kobold
+maxHP=10
+attackType=melee
+attackPower=3
+
+[ORC]
+power=2
+Name=Orc
+maxHP=15
+attackType=melee
+attackPower=5
+
+[ORCARCHER]
+power=2
+Name=Orc Marksman
+maxHP=13
+attackType=ranged
+attackPower=3
